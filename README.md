@@ -1,0 +1,1 @@
+Here, you will find the files that support our work entitled "An Evolutionary Novelty in TRPV1 Functional Regulation: Characterization of a Dominant-Negative Isoform Exclusive to Catarrhine Primates". To make this easy, we named the files to be evident in their corresponding result.
