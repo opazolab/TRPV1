@@ -1,1 +1,1 @@
-Here, you will find the files that support our work entitled "Evolutionary Novelty in TRPV1 Regulation: A Dominant-Negative Isoform Exclusive to Catarrhine Primates". To make this easy, we named the files to be evident in their corresponding result.
+Here, you will find the files that support our work entitled "A Catarrhine-Specific TRPV1 Splice Variant Acts as a Dominant-Negative Regulator of Channel Trafficking". To make this easy, we named the files to be evident in their corresponding result.
